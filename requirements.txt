@@ -1,0 +1,7 @@
+streamlit>=1.50
+streamlit-js-eval>=0.1.7
+Pillow>=10.0
+requests>=2.31
+reportlab>=4.0
+numpy>=1.26
+pandas>=2.0
